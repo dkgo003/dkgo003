@@ -16,5 +16,5 @@
 ---
 
 ## :bulb: Stats
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=dkgo003)](https://github.com/dkgo003)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkgo003&layout=compact)](https://github.com/dkgo003/github-readme-stats)
+[![*'s github stats](https://github-readme-stats-delta-liard.vercel.app/api?username=dkgo003)](https://github.com/dkgo003)
+[![Top Langs](https://github-readme-stats-delta-liard.vercel.app/api/top-langs/?username=dkgo003&layout=compact)](https://github.com/dkgo003/github-readme-stats)
